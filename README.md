@@ -4,7 +4,9 @@ Este repositorio intenta ser una guía de estudio para la asignatura Diseño de 
 
 ## Modelo 4 + 1
 
-![Modelo 4 + 1](images/4+1.png)
+<p align="center">
+    <img src="images/4+1.png" alt="Modelo 4 + 1" width="50%" />
+</p>
 
 Es un modelo para "describir la arquitectura de sistemas de software, basado en el uso de múltiples vistas concurrentes". Las vistas suelen describir el sistema desde el punto de vista de diferentes interesados, tales como usuarios finales, desarrolladores o directores de proyecto. Las cuatro vistas del modelo son: vista lógica, vista de desarrollo, vista de proceso y vista física. Además, una selección de casos de uso o escenarios suele utilizarse para ilustrar la arquitectura sirviendo como una vista más.
 
